@@ -29,6 +29,10 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "eSIM API Reference",
+      "url": "esim-api-reference"
     }
   ],
   "anchors": [
